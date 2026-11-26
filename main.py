@@ -17,7 +17,7 @@ LINE = "My smart fridge needs Wi-Fi to pour a glass of water, so a router outage
 # The gate allows 1 to 160 characters; keep the line inside it by construction.
 # It must also be exactly one line: a newline anywhere would break the
 # single-line gate, and the ranking tie-break favours fewer bytes, so the
-# line is kept short (106 characters) rather than padded to the cap.
+# line is kept short (101 characters) rather than padded to the cap.
 MAX_CHARS = 160
 
 
